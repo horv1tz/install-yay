@@ -1,8 +1,5 @@
 # install-yay
-# Запуск/Start
+# Start
 ```
-git clone https://github.com/horvitzoff/install-yay
-cd install-yay
-chmod +x script
-./script
+bash <(curl -s https://raw.githubusercontent.com/horv1tz/install-yay/main/script.sh)
 ```
